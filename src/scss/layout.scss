@@ -1,0 +1,8 @@
+@import '@/scss/utils/_variables';
+
+#app {
+  position: relative;
+  max-width: $max-width;
+  margin: 0 auto;
+  height: 100vh;
+}

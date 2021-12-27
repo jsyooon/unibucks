@@ -1,8 +1,12 @@
-import { createStore } from "vuex";
+import { createStore } from 'vuex';
+import menu from '@/store/menu';
 
-export default createStore({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {},
+export interface State {
+  count: 0;
+}
+
+export default createStore<State>({
+  modules: {
+    menu,
+  },
 });

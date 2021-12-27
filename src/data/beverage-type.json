@@ -1,0 +1,17 @@
+{
+  "new": {"ko": "NEW"},
+  "recommended": {"ko": "추천", "en": "Recommend"},
+  "reserveEspresso": {"ko": "리저브 에스프레소", "en": "Reserve Espresso"},
+  "reserveDrip": {"ko" :"리저브 드립", "en": "Reserve Drip"},
+  "coldBrew": {"ko": "콜드 브루", "en": "Cold Brew"},
+  "blonde": {"ko": "블론드", "en": "Blonde Coffee"},
+  "espresso": {"ko": "에스프레소", "en": "Espresso"},
+  "decaf": {"ko": "디카페인 커피", "en":"Decaf Coffee"},
+  "frappuccino": {"ko": "프라푸치노", "en": "Blended"},
+  "Blended": {"ko": "블렌디드", "en": "Blended"},
+  "fizzio": {"ko":"피지오", "en": "Unibucks Fizzio"},
+  "teavana":{"ko": "티바나", "en": "Teavana"},
+  "brewed": {"ko": "브루드 커피", "en": "Brewed Coffee"},
+  "others": {"ko": "기타", "en": "Others"},
+  "rtd": {"ko":"병음료", "en": "RTD"}
+}
